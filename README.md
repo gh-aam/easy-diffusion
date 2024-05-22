@@ -1,7 +1,12 @@
 # Easy Diffusion
 
-## [Colab](https://colab.research.google.com) Notebook
+## Installation
+
+### [Colab](https://colab.research.google.com) Notebook
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gh-aam/easy-diffusion/blob/main/notebooks/easy_diffusion_colab.ipynb)
 
-## [SMSL](https://studiolab.sagemaker.aws) Notebook
+### [SMSL](https://studiolab.sagemaker.aws) Notebook
 Upcoming...
+
+## Note
+A lot of features will be added gradually in an intuitive way (hopefully).
