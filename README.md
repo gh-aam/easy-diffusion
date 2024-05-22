@@ -9,4 +9,4 @@
 Upcoming...
 
 ## Note
-A lot of features and optimizations will be implemented gradually (hopefully).
+It's a fun project. More features and optimizations will be implemented gradually (hopefully).
